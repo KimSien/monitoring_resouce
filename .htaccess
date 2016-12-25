@@ -1,0 +1,1 @@
+RedirectMatch (.*)\.jpg$ http://test.com$1.php
