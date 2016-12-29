@@ -1,4 +1,6 @@
-# reserch access volume and monitoring tool
+# reserch resource access volume and monitoring tool
+
+set the 
 
 in development.
 
@@ -7,11 +9,11 @@ in development.
 
 - .htaccess
 
-[*](http://cyborg-ninja.com/ittips/711)
+[httaccess reference](http://cyborg-ninja.com/ittips/711)
 
 - test.php
 
-[*](http://php.birdlab.com/tips/1)
+[send header contents type=image/jpg in php sorce](http://php.birdlab.com/tips/1)
 
 # test
 
